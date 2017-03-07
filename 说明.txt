@@ -1,0 +1,11 @@
+
+
+
+JDNI的作用
+定义：JNDI是由j2ee容器提供的功能 
+来源：http://shitou521.iteye.com/blog/696006
+应用：http://blog.csdn.net/dyllove98/article/details/7706218
+思路：如果不用JNDI我们怎样做？用了JNDI后我们又将怎样做？
+过程：使用jdbc，容器对jdbc的兼容
+
+
